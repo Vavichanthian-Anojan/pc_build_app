@@ -1,0 +1,94 @@
+{
+  "build": [
+    {
+      "firstName": "Anojan",
+      "lastName": "Vavichanthiran",
+      "email": "chandrananojan@gmail.com",
+      "motherboard": "ATX",
+      "processor": "intel",
+      "ram": "DDR 5",
+      "graphics": "NVIDIA",
+      "id": "1"
+    },
+    {
+      "firstName": "Samantha",
+      "lastName": "Jones",
+      "email": "sam.jones@example.com",
+      "motherboard": "ATX",
+      "processor": "AMD",
+      "ram": "DDR 5",
+      "graphics": "AMD Radeon",
+      "id": "2"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Smith",
+      "email": "m.smith@example.com",
+      "motherboard": "LPX",
+      "processor": "AMD",
+      "ram": "DDR 5",
+      "graphics": "NVIDIA",
+      "id": "3"
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Brown",
+      "email": "emily.brown@example.com",
+      "motherboard": "ATX",
+      "processor": "AMD",
+      "ram": "DDR 4",
+      "graphics": "AMD Radeon",
+      "id": "4"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Lee",
+      "email": "david.lee@example.com",
+      "motherboard": "ATX",
+      "processor": "AMD",
+      "ram": "DDR 5",
+      "graphics": "AMD Radeon",
+      "id": "5"
+    },
+    {
+      "firstName": "Jennifer",
+      "lastName": "Garcia",
+      "email": "j.garcia@example.com",
+      "motherboard": "Mini ITX",
+      "processor": "intel",
+      "ram": "DDR 5",
+      "graphics": "GeForce",
+      "id": "6"
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Martinez",
+      "email": "d.martinez@example.com",
+      "motherboard": "BTX",
+      "processor": "AMD",
+      "ram": "DDR 5",
+      "graphics": "GeForce",
+      "id": "7"
+    },
+    {
+      "firstName": "Jessica",
+      "lastName": "Nguyen",
+      "email": "j.nguyen@example.com",
+      "motherboard": "ATX",
+      "processor": "intel",
+      "ram": "DDR 4",
+      "graphics": "GeForce",
+      "id": "8"
+    },
+    {
+      "id": "8f7e",
+      "firstName": "code ",
+      "lastName": "Lantic",
+      "email": "codelantic@gmail.com",
+      "motherboard": "ATX",
+      "processor": "intel",
+      "ram": "DDR 4",
+      "graphics": "AMD Radeon"
+    }
+  ]
+}
